@@ -1,0 +1,24 @@
+1) Create account with github
+2) Download git bash for windows
+3) Creat new project in git hub
+
+
+Clone the git project from cloud to local
+1) Create new folder in your laptop
+2) Right click and open the git bash
+
+commands
+1) git clone - project url
+2) Open the project
+3) add one text file
+
+commands
+1) git status
+2) git add .
+3) git commit -m"first commit"
+4) git push
+
+
+Go to the git hub and refresh the project
+
+1) Local text file will be availbale in github cloud
